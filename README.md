@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/LINUX-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor=#FCC624"/>
+<img src="https://img.shields.io/badge/LINUX-#FCC624?style={스타일}&logo={로고이름}&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embedded-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
