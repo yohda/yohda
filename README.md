@@ -1,5 +1,4 @@
-### 드루와~ 임베디드가 뭔지 보여줄게 👋
-
+<div align=center><h1>👋 드루와~ 임베디드가 뭔지 보여줄게 👋 </h1></div>
 <!--
 **yohda/yohda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
