@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aling=center>
+<div align=center>
   <img src="https://img.shields.io/badge/Embedded-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 
   
