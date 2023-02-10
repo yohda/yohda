@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Embedded-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 
   
-  <img src="https://img.shields.io/badge/LINUX-#A8B9CC?style=for-the-badge&logo=Linux Foundation&logoColor=white">
+ <img src="https://img.shields.io/badge/Linux-A8B9CC?style=for-the-badge&logo=Linux&logoColor=white">
