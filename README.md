@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/GITIGNORE-204ECF?style=for-the-badge&logo=gitignore.io&logoColor=white">
 
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry  Pi&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 
